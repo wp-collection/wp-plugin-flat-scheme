@@ -24,19 +24,3 @@ How to approach:
   6. enjoy.. mod what you wont.
 
 ```
-
-A little extra note:<br>
-Comment is readed by wp for make headers options in plugins table. The space and order is important! So..
-``` 
-/*  this is valid:
-    Plugin Name: MY NAME PLUGIN
-    ...other...
-    Author URI: https://mylink.ldt
-*/
-
-/*  this is wrong:
-    AUTHOR URI : mylink.ldt
-    ...other...
-    PluginName : MY NAME PLUGIN
-*/
-```
