@@ -6,9 +6,9 @@ an example pattern of "how to build a wordpress plugin and how to save its optio
 info:
 
 The plugin is a 3 main file scheme.<br>
-The first "the-plugin-scheme.php" generates the link and the page on the wordpress menu;<br>
-The second file "page-content.php" is the mainpage, the exemple form and logic inside the page;<br>
-Last file "the-plugin-scheme-library.php" is the functions methods for all actions doed in page content.<br>
+The first "index.php" generates the link and the page on the wordpress menu;<br>
+The second file "contents.php" is the mainpage, the exemple form and logic inside the page;<br>
+Last file "wpdblib.php" is the functions methods for all actions doed in page content.<br>
 
 All actions is commented for easy undestand what and how it does all.<br>
 
