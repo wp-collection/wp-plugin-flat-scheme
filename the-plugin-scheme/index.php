@@ -55,7 +55,7 @@
             }
 
             function write_page () {
-                require 'page-content.php'; //rememeber to copy slug of plugin/page inside this file!
+                require 'contents.php'; //rememeber to copy slug of plugin/page inside this file!
             }
 
 
