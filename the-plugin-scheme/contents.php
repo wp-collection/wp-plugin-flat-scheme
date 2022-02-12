@@ -1,4 +1,4 @@
-<?php  require 'wp-db-lib.php'; ?>
+<?php  require 'wpdblib.php'; ?>
 
 <?php
 
