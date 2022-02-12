@@ -1,7 +1,7 @@
 <?php
 
 /*
-    Plugin Name: The plugin scheme
+    Plugin Name: The plugin base scheme
     Description: The scheme to how to make a plugin, save data, set informations
     Version: 1.0
     Author: Bertz.tech - Alberto Marà 
