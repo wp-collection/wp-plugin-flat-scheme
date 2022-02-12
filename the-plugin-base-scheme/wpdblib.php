@@ -3,7 +3,7 @@
 
 
 /*
-//  Methods library
+//  Methods library for Worpdress Database Actions
 */
 
 function set_table_name($tabname) {
