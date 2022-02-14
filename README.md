@@ -1,7 +1,13 @@
-# wp-plugin-flat-scheme 
-an example pattern of "how to build a wordpress plugin and how to save its options in the wordpress database"
+Do you like this project? Good! Remember to encourage us in this: <b>click on the ★ above this page and follow</b>
 
 ---
+
+# wp-plugin-flat-scheme 
+
+An example pattern of "how to build a wordpress plugin and how to save its options in the wordpress database"
+
+---
+
 
 info:
 
